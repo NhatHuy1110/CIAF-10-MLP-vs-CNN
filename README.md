@@ -7,11 +7,17 @@ This project compares two machine learning models for classifying the CIFAR10 da
 ## File Structure
 
 CIAF10-MLP-vs-CNN/
+
 ├── Cifar-10_CNN.ipynb
+
 ├── CIFAR-10_dataset.jpg
+
 ├── Cifar-10_using_1HiddenLayer.ipynb
+
 ├── Cifar-10_using_2HiddenLayer.ipynb
+
 ├── Cifar-10_using_3HiddenLayer.ipynb
+
 └── README.md
 
 - `Cifar-10_CNN.ipynb`: A Notebook for training a Convolutional Neural Network (CNN) for image classification on the CIFAR-10 dataset.
