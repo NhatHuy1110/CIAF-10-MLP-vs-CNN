@@ -76,7 +76,7 @@ model = nn.Sequential(
 )
 ```
 
-- **CNN model**: The CNN model with multiple convolutional layers
+**CNN model**: The CNN model with multiple convolutional layers
 - Input: 32x32x3 (CIFAR-10 image size)
 - Convolutional Layers: Four layers with increasing channel sizes (32, 64, 128, 256)
 - Output: 10 classes (CIFAR-10 categories)
